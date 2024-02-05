@@ -1,7 +1,7 @@
 debug: false
-uuid: 0156e36e-da48-4c99-abac-62dcabf39147
-token_id: fy5rbqtUHm4Pcg3F
-token: v9ZewqNJJCljF2UsHwPf6CummJUhwSHnl6v3lMtjHLPREoZec6qwuR77f4ujdfWN
+uuid: 626c38cb-b010-4c35-9b34-3eea003e9a4c
+token_id: medj0ppES2EYqH2W
+token: 2lztkjuvcO2pgxtLWUQ5Yayv0738svcMoVoswkNy0BlFqhbuzn1d59VdMVdpFE0H
 api:
   host: 0.0.0.0
   port: 443
