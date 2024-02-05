@@ -1,18 +1,18 @@
 debug: false
-uuid: 927fc0cd-3852-4e4a-9c87-5b4cf3e5565c
-token_id: IUK8pdY6xlikgqy9
-token: yS69ah3DTkJdxWw8djbJIzq4A48TKaSsITkOry1IdfdutraY9NZvhEEDU96CufMg
+uuid: ab371edc-0015-4c23-af1c-c44dfbf972fc
+token_id: He6geZyLQwPqhUxr
+token: kuiY4LkfewRkXHiX0O2wDtyvxJlYcCIS0sheXS5CTG3OFQyD2Lfde2aXLomsjSI6
 api:
   host: 0.0.0.0
   port: 443
   ssl:
     enabled: false
-    cert: /etc/letsencrypt/live/muskox-exact-marginally.ngrok-free.app/fullchain.pem
-    key: /etc/letsencrypt/live/muskox-exact-marginally.ngrok-free.app/privkey.pem
+    cert: /etc/letsencrypt/live/stunning-space-spoon-qxj6x9rg7wqcxgq5-443.app.github.dev/fullchain.pem
+    key: /etc/letsencrypt/live/stunning-space-spoon-qxj6x9rg7wqcxgq5-443.app.github.dev/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://potential-acorn-v59w5g47gv5cxpqg-80.app.github.dev'
+remote: 'https://humble-space-invention-7x6wxrqxg5jcppqr-80.app.github.dev'
