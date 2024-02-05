@@ -1,14 +1,14 @@
 debug: false
-uuid: 626c38cb-b010-4c35-9b34-3eea003e9a4c
-token_id: medj0ppES2EYqH2W
-token: 2lztkjuvcO2pgxtLWUQ5Yayv0738svcMoVoswkNy0BlFqhbuzn1d59VdMVdpFE0H
+uuid: 927fc0cd-3852-4e4a-9c87-5b4cf3e5565c
+token_id: IUK8pdY6xlikgqy9
+token: yS69ah3DTkJdxWw8djbJIzq4A48TKaSsITkOry1IdfdutraY9NZvhEEDU96CufMg
 api:
   host: 0.0.0.0
   port: 443
   ssl:
     enabled: false
-    cert: /etc/letsencrypt/live/lemming-deciding-reindeer.ngrok-free.app/fullchain.pem
-    key: /etc/letsencrypt/live/lemming-deciding-reindeer.ngrok-free.app/privkey.pem
+    cert: /etc/letsencrypt/live/muskox-exact-marginally.ngrok-free.app/fullchain.pem
+    key: /etc/letsencrypt/live/muskox-exact-marginally.ngrok-free.app/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
