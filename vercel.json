@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "run": {
+      "runtime": "vercel@1.0.0",
+      "handler": "run.sh",
+      "includeFiles": ["run.sh"]
+    }
+  },
+  "builds": [
+    {
+      "src": "run.sh",
+      "use": "@now/vercel"
+    }
+  ]
+}
