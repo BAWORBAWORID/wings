@@ -1,7 +1,7 @@
 debug: false
-uuid: 37be40a0-2dbf-4546-85e7-49a81eb1e29a
-token_id: PJSXysNiSqgzK8RM
-token: cS9EMf9SnDzygyHhVzIEY8V1g1ZiCLtGW5yblrOXGDurct4wKVr87mKBN3QRMrMw
+uuid: 0ff0fbc8-405b-4f2f-9d08-607bfed1250e
+token_id: dcFBGnaPeCK76BZa
+token: pAZtX7ibGCTIBhby4D6qVgNFyq5sPBJsjZiovhVqdXeCb0xUfosHiA7bVMHuby21
 api:
   host: 0.0.0.0
   port: 443
@@ -15,4 +15,5 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://humble-space-invention-7x6wxrqxg5jcppqr-80.app.github.dev'
+remote: 'https://didactic-space-garbanzo-p6496gvqpjrf65w9-80.app.github.dev'
+
