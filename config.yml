@@ -1,7 +1,7 @@
 debug: false
-uuid: 0ff0fbc8-405b-4f2f-9d08-607bfed1250e
-token_id: dcFBGnaPeCK76BZa
-token: pAZtX7ibGCTIBhby4D6qVgNFyq5sPBJsjZiovhVqdXeCb0xUfosHiA7bVMHuby21
+uuid: f3ab7b1d-3d5a-479f-b300-fd5e1fcc46ad
+token_id: od1Lon6laPNS32hY
+token: OPCJ4bHbPRo5nBNN7Rs6ACQglQjns3P2Aincz3UNhdmSMnOBe1rnnIt6ONo9OZdq
 api:
   host: 0.0.0.0
   port: 443
@@ -15,5 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://didactic-space-garbanzo-p6496gvqpjrf65w9-80.app.github.dev'
-
+remote: 'https://orange-waddle-7x6wxrq4rw73x7v7-80.app.github.dev'
