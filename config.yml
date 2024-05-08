@@ -1,18 +1,18 @@
 debug: false
-uuid: f3ab7b1d-3d5a-479f-b300-fd5e1fcc46ad
-token_id: od1Lon6laPNS32hY
-token: OPCJ4bHbPRo5nBNN7Rs6ACQglQjns3P2Aincz3UNhdmSMnOBe1rnnIt6ONo9OZdq
+uuid: 13d25947-7ba2-4a23-8ace-2b2368c2bc98
+token_id: 0wfagccqwkpjLU4m
+token: BU2MWNQDOcjUDccQZnK2vIwEtO5azfLZupliaIK2cJvll5MaDJxu8lK4rb8UGYl5
 api:
   host: 0.0.0.0
   port: 443
   ssl:
-    enabled: false
-    cert: /etc/letsencrypt/live/whale-cute-slightly.ngrok-free.app/fullchain.pem
-    key: /etc/letsencrypt/live/whale-cute-slightly.ngrok-free.app/privkey.pem
+    enabled: true
+    cert: /etc/letsencrypt/live/fictional-couscous-x47x496q9gpfpj79-443.app.github.dev/fullchain.pem
+    key: /etc/letsencrypt/live/fictional-couscous-x47x496q9gpfpj79-443.app.github.dev/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://orange-waddle-7x6wxrq4rw73x7v7-80.app.github.dev'
+remote: 'https://fictional-couscous-x47x496q9gpfpj79-80.app.github.dev'
