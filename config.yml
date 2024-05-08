@@ -1,7 +1,7 @@
 debug: false
-uuid: 7b0fe35c-ce7d-4ff1-a9ac-f011a3814f7a
-token_id: RDDnwTqFpahs1Usv
-token: CxwL8CP73oTqADxe8whuhffl2mP0L4NQlTO3kOFLBoaxo9OdnvTePZz7W5H2IEK0
+uuid: 0ae608b1-317f-4076-b21f-a6a9ff5b7ed9
+token_id: 3buEQ05XPWb9ls4O
+token: Y1vhHzjzOt9p2kEP3FJPHZA3adTflKOJyBUNRorr9D4bxqKd2TSKL5pZHbcGvE2J
 api:
   host: 0.0.0.0
   port: 443
@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://fictional-couscous-x47x496q9gpfpj79-80.app.github.dev'
+remote: 'https://cuddly-halibut-7x6wxrqxgjp3wp7x-80.app.github.dev'
