@@ -1,7 +1,7 @@
 debug: false
-uuid: d1132c72-b110-4f22-a056-4a4ac0b0abdc
-token_id: dXkRDvRYP7bdccLL
-token: maNdqOq0hEbZdQyeIhoaxNqUXtEVoISOTYbD1RTHtyyil4RgJPY92EwbKMyEa8ec
+uuid: 1b990e19-7fac-45a1-9360-688fa1abfeda
+token_id: CdrgpxFFAznDmq0N
+token: aPD6nfroQmGyAwe6imIOFG1LvF9lsmG29NMMt0bTmUc0jRqOOqWfjXyJt0EnDa4y
 api:
   host: 0.0.0.0
   port: 443
@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://kepriweb-1.duckdns.org'
+remote: 'https://panelvip.baworzz.my.id'
